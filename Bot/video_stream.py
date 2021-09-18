@@ -19,7 +19,7 @@ VIDEO_CALL = {}
 
 @Client.on_message(filters.private & filters.user(ADMIN) & filters.command(["start"]))
 async def start(client, m: Message):
-	await m.reply("Hello Start Stream Video Using Command /play(reply_to_message) and /stop\n Check Example https://t.me/lntechnicalgroup/11740 ")
+	await m.reply("Hello Start Stream Video Using Command /play(reply_to_message) and /stop")
 
 
 @Client.on_message(filters.private & filters.user(ADMIN) & filters.command(["play"]))

@@ -5,8 +5,8 @@
         "Video Stream ",
         "pytgcalss"
     ],
-    "repository": "https://github.com/lntechnical2/videostream",
-    "success_url": "https://telegram.dog/lntechnical",
+    "repository": "https://github.com/TharukRenuja/videostream",
+    "success_url": "https://telegram.dog/TharukRenuja",
     "env": {
         "CHAT": {
             "description": "Channel or Group user Name With @",
